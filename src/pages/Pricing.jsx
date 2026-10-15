@@ -13,7 +13,7 @@ const plans = [
         name: "Free",
         price: '₹0',
         credits: 200,
-        description: "Perfect to explore Dora ai",
+        description: "Perfect to explore Gaurav ai",
         features: [
             "AI website generation",
             "Responsive html outputs",
@@ -76,7 +76,7 @@ const Pricing = () => {
                 key: import.meta.env.VITE_RAZORPAY_KEY_ID,
                 amount: result.data.amount,
                 currency: 'INR',
-                name: "Dora ai",
+                name: "Gaurav ai",
                 description: `${plan.name} - ${plan.credits} Credits`,
                 order_id: result.data.id,
 

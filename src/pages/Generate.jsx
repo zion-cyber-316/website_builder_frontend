@@ -125,7 +125,7 @@ const Generate = () => {
                             <ArrowLeft size={16} />
                         </button>
 
-                        <h1 className="text-lg font-semibold">Dora AI</h1>
+                        <h1 className="text-lg font-semibold">Gaurav ai</h1>
 
                     </div>
 
@@ -151,7 +151,7 @@ const Generate = () => {
                     </h1>
 
                     <p className='text-zinc-400 max-w-2xl mx-auto'>
-                        This process may take several minutes. Dora AI focuses on quality not shortcuts
+                        This process may take several minutes. Gaurav ai focuses on quality not shortcuts
                     </p>
 
                 </motion.div>

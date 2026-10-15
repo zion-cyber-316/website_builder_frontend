@@ -72,7 +72,7 @@ const LoginModel = ({open, onClose}) => {
                                 </div>
                                 <h2 className='text-3xl font-semibold leading-tight mb-3 space-x-2 '>
                                     <span className='text-white'>Welcome to</span>
-                                    <span className='bg-linear-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent'>Dora ai</span>
+                                    <span className='bg-linear-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent'>Gaurav ai</span>
                                 </h2>
                                 <motion.button
                                     onClick={handleGoogleAuth}
